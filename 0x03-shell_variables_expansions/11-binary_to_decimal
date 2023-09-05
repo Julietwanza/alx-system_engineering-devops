@@ -1,2 +1,2 @@
 #!/bin/bash
-decimal_number=$((BINARY))
+echo $((2#BINARY))
